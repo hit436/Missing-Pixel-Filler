@@ -16,7 +16,7 @@ More information on our work with this package can be found [on Arxiv](https://a
 
 This package can be installed by typing the following into your command line:
 
-`pip install git+https://github.com/spaceml-org/Missing-Pixel-Filler.git#egg=missing_pixel_filler`
+`pip install git+https://github.com/hit436/Missing-Pixel-Filler.git`
 
 #### Functions
 
